@@ -1,0 +1,146 @@
+[
+	{
+		"title": "Lápices Fabre",
+		"description": "Lápices de colores x24",
+		"price": 200,
+		"thumbnail": [
+			"no image"
+		],
+		"code": "lp27433",
+		"category": "utiles",
+		"stock": 250,
+		"status": true,
+		"id": 1
+	},
+	{
+		"title": "Bolígrafo vic",
+		"description": "Pack de bolígrafos azules",
+		"price": 300,
+		"thumbnail": [
+			"no image"
+		],
+		"code": "vic-234",
+		"category": "utiles",
+		"stock": 250,
+		"status": true,
+		"id": 2
+	},
+	{
+		"title": "Lápices Technic",
+		"description": "Lápiz de grafito 3H",
+		"price": 50,
+		"thumbnail": [
+			"no image"
+		],
+		"code": "t-546-3H",
+		"category": "dibujo tecnico",
+		"stock": 133,
+		"status": true,
+		"id": 3
+	},
+	{
+		"title": "Goma Technic",
+		"description": "Goma de borrar",
+		"price": 200,
+		"thumbnail": [
+			"no image"
+		],
+		"code": "t-923u-g",
+		"category": "dibujo tecnico",
+		"stock": 1000,
+		"status": true,
+		"id": 4
+	},
+	{
+		"title": "Tinta La Perla",
+		"description": "Tinta negra",
+		"price": 300,
+		"thumbnail": [
+			"no image"
+		],
+		"code": "tint19222230",
+		"category": "caligrafia",
+		"stock": 1000,
+		"status": true,
+		"id": 5
+	},
+	{
+		"title": "Tinta La Perla",
+		"description": "Tinta de color",
+		"price": 250,
+		"thumbnail": [
+			"no image"
+		],
+		"code": "tint09908172",
+		"category": "caligrafia",
+		"stock": 0,
+		"status": false,
+		"id": 6
+	},
+	{
+		"title": "Regla Pizzina",
+		"description": "Regla 60cm metálica",
+		"price": 750,
+		"thumbnail": [
+			"no image"
+		],
+		"code": "P-9834-M",
+		"category": "utiles",
+		"stock": 106,
+		"status": true,
+		"id": 7
+	},
+	{
+		"title": "Lápices Technic",
+		"description": "Lápiz de grafito 7B línea Technic",
+		"price": 50,
+		"thumbnail": [
+			"no image"
+		],
+		"code": "t-546-7B",
+		"category": "dibujo tecnico",
+		"stock": 245,
+		"status": true,
+		"id": 8
+	},
+	{
+		"title": "Lápices Technic",
+		"description": "Lápiz de grafito HB línea Escolar",
+		"price": 15,
+		"thumbnail": [
+			"no image"
+		],
+		"code": "tE-799-HB",
+		"category": "dibujo tecnico",
+		"stock": 250,
+		"status": true,
+		"id": 9
+	},
+	{
+		"title": "Hojas Carlson",
+		"description": "Pack 200 hojas lisas 120gr. blanca",
+		"price": 4000,
+		"thumbnail": [
+			"no image"
+		],
+		"code": "C912-120B",
+		"category": "papel",
+		"stock": 9997,
+		"status": true,
+		"id": 10
+	},
+	{
+		"title": "Hojas Carlson",
+		"description": "Pack 100 hojas lisas 120gr. amarilla",
+		"price": 4500,
+		"thumbnail": [
+			"no image",
+			"jajajajaja"
+		],
+		"code": "C907-120A",
+		"category": "papel",
+		"stock": 2500,
+		"status": true,
+		"id": 11
+	}
+]
